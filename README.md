@@ -55,14 +55,18 @@ Just remember to run `npm run build` in your original module root folder so that
 ## Publish your awesome module (finally!)
 Once you're ready to publish your hard work so that the rest of us can take advantage of it, please follow this easy steps:
 * configure your NPM acount, if you haven't done it already, following [these instructions](https://docs.npmjs.com/getting-started/publishing-npm-packages)
-* navigate to your module's `dist` folder and run `npm publish``
+* navigate to your module's `dist` folder and run `npm publish`
 
 Anytime you need to update your module, just rebuild, change the version number and publish again.
 
 ## Other stuff
 ### To-do
 * Explore using OpaqueTokens for referencing services.
+
 ### Get in touch
+
 Feel free to drop me a line if you have an issue, doubt, problem or suggestion, even just to tell me what you think. You can leave an issue here or give me a shout on [Twitter](http://twitter.com/davguij).
+
 ### License
+
 MIT
