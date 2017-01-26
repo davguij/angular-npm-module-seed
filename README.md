@@ -8,7 +8,9 @@ The whole project is heavily inspired by [Cyrille Tuzi](https://github.com/cyril
 * `fork` this repo and change its name to match your module's
 * `clone` your fork
 * review the `package.json` file contents and include your name, your module's name and any other information you find necessary. Also, make sure the listed dependencies and their version numbers are what you need them to be
+
 > Don't pay attention to the `package-dist.json` file by now, we will get there later on.
+
 * `npm install` to install all dependencies or `yarn`
 
 ## Coding time!
@@ -67,6 +69,7 @@ Anytime you need to update your module, just rebuild, change the version number 
 ## Other stuff
 ### To-do
 
+* Adding unit tests.
 * Explore using OpaqueTokens for referencing services.
 
 ### Get in touch
